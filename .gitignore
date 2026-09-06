@@ -153,6 +153,7 @@ activemq-data/
 .venv
 env/
 venv/
+uploaded_food.jpg
 ENV/
 env.bak/
 venv.bak/
